@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #12202f;
+  --brand: #da291c;
+  --brand-dark: #7a0d12;
+  --accent: #ffc133;
+  --muted: #f4f7f9;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-brand: var(--brand);
+  --color-brand-dark: var(--brand-dark);
+  --color-accent: var(--accent);
+  --color-muted: var(--muted);
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+}
+
+/* CV maker: A4 page, scaled to fit the preview column, printed at full size */
+.cv-page {
+  width: 210mm;
+  min-height: 297mm;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.cv-scale-wrap .cv-page {
+  zoom: 0.44;
+}
+@media (min-width: 480px) {
+  .cv-scale-wrap .cv-page { zoom: 0.55; }
+}
+@media (min-width: 640px) {
+  .cv-scale-wrap .cv-page { zoom: 0.75; }
+}
+@media (min-width: 1024px) {
+  .cv-scale-wrap .cv-page { zoom: 0.56; }
+}
+@media (min-width: 1280px) {
+  .cv-scale-wrap .cv-page { zoom: 0.72; }
+}
+@media (min-width: 1440px) {
+  .cv-scale-wrap .cv-page { zoom: 0.8; }
+}
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+  body {
+    background: #fff;
+  }
+  .cv-scale-wrap .cv-page {
+    zoom: 1;
+  }
+}
