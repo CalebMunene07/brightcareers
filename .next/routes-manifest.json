@@ -12,54 +12,6 @@
       "priority": true,
       "statusCode": 308,
       "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
-    },
-    {
-      "source": "/about",
-      "destination": "/employers/who-we-are",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/about(?:/)?$"
-    },
-    {
-      "source": "/contact",
-      "destination": "/contact-us",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/contact(?:/)?$"
-    },
-    {
-      "source": "/find-a-job",
-      "destination": "/",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/find-a-job(?:/)?$"
-    },
-    {
-      "source": "/industries",
-      "destination": "/employers/industries",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/industries(?:/)?$"
-    },
-    {
-      "source": "/industries/:slug",
-      "destination": "/employers/industries/:slug",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/industries(?:/([^/]+?))(?:/)?$"
-    },
-    {
-      "source": "/employers/:slug(flexible-staffing|permanent-recruitment|training)",
-      "destination": "/employers/solutions/:slug",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/employers(?:/(flexible-staffing|permanent-recruitment|training))(?:/)?$"
-    },
-    {
-      "source": "/employers/recruitment-outsourcing",
-      "destination": "/employers/solutions/outsourcing",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/employers/recruitment-outsourcing(?:/)?$"
-    },
-    {
-      "source": "/employers/diversity-inclusion",
-      "destination": "/employers/solutions/diversity-and-inclusion",
-      "statusCode": 308,
-      "regex": "^(?!/_next)/employers/diversity-inclusion(?:/)?$"
     }
   ],
   "headers": [],

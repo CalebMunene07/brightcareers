@@ -11,7 +11,7 @@ self.__SERVER_FILES_MANIFEST={
     "cleanDistDir": true,
     "assetPrefix": "",
     "cacheMaxMemorySize": 52428800,
-    "configOrigin": "next.config.ts",
+    "configOrigin": "default",
     "useFileSystemPublicRoutes": true,
     "generateEtags": true,
     "pageExtensions": [
@@ -232,10 +232,8 @@ self.__SERVER_FILES_MANIFEST={
       "turbopackFileSystemCacheForBuild": true,
       "turbopackInferModuleSideEffects": true,
       "turbopackPluginRuntimeStrategy": "childProcesses",
-      "serverActions": {
-        "bodySizeLimit": "4.4mb"
-      },
       "turbopackMemoryEvictionMode": "auto",
+      "middlewarePrefetch": "flexible",
       "optimizePackageImports": [
         "lucide-react",
         "date-fns",
@@ -322,54 +320,12 @@ self.__SERVER_FILES_MANIFEST={
     },
     "htmlLimitedBots": "[\\w-]+-Google|Google-[\\w-]+|Chrome-Lighthouse|Slurp|DuckDuckBot|baiduspider|yandex|sogou|bitlybot|tumblr|vkShare|quora link preview|redditbot|ia_archiver|Bingbot|BingPreview|applebot|facebookexternalhit|facebookcatalog|Twitterbot|LinkedInBot|Slackbot|Discordbot|WhatsApp|SkypeUriPreview|Yeti|googleweblight",
     "bundlePagesRouterDependencies": false,
-    "configFileName": "next.config.ts",
+    "configFileName": "next.config.js",
+    "repoRoot": "/home/classicmster/Documents/Projects/bridgecareers",
     "turbopack": {
       "root": "/home/classicmster/Documents/Projects/bridgecareers"
     },
-    "repoRoot": "/home/classicmster/Documents/Projects/bridgecareers",
-    "distDirRoot": ".next",
-    "_originalRedirects": [
-      {
-        "source": "/about",
-        "destination": "/employers/who-we-are",
-        "permanent": true
-      },
-      {
-        "source": "/contact",
-        "destination": "/contact-us",
-        "permanent": true
-      },
-      {
-        "source": "/find-a-job",
-        "destination": "/",
-        "permanent": true
-      },
-      {
-        "source": "/industries",
-        "destination": "/employers/industries",
-        "permanent": true
-      },
-      {
-        "source": "/industries/:slug",
-        "destination": "/employers/industries/:slug",
-        "permanent": true
-      },
-      {
-        "source": "/employers/:slug(flexible-staffing|permanent-recruitment|training)",
-        "destination": "/employers/solutions/:slug",
-        "permanent": true
-      },
-      {
-        "source": "/employers/recruitment-outsourcing",
-        "destination": "/employers/solutions/outsourcing",
-        "permanent": true
-      },
-      {
-        "source": "/employers/diversity-inclusion",
-        "destination": "/employers/solutions/diversity-and-inclusion",
-        "permanent": true
-      }
-    ]
+    "distDirRoot": ".next"
   },
   "appDir": "/home/classicmster/Documents/Projects/bridgecareers",
   "relativeAppDir": "",

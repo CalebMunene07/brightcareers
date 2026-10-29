@@ -5,7 +5,7 @@ type AppRoutes = "/" | "/[legal]" | "/admin" | "/admin/articles" | "/admin/artic
 type AppRouteHandlerRoutes = "/admin/files/[type]/[id]/[...path]" | "/admin/jobs-template" | "/admin/privacy-export" | "/api/cron/retention"
 type PageRoutes = never
 type LayoutRoutes = "/" | "/admin"
-type RedirectRoutes = "/about" | "/contact" | "/employers/diversity-inclusion" | "/employers/recruitment-outsourcing" | "/find-a-job" | "/industries" | "/industries/[slug]"
+type RedirectRoutes = never
 type RewriteRoutes = never
 type Routes = AppRoutes | PageRoutes | LayoutRoutes | RedirectRoutes | RewriteRoutes | AppRouteHandlerRoutes
 
@@ -13,7 +13,6 @@ type Routes = AppRoutes | PageRoutes | LayoutRoutes | RedirectRoutes | RewriteRo
 interface ParamMap {
   "/": {}
   "/[legal]": { "legal": string; }
-  "/about": {}
   "/admin": {}
   "/admin/articles": {}
   "/admin/articles/[id]": { "id": string; }
@@ -55,18 +54,15 @@ interface ParamMap {
   "/api/cron/retention": {}
   "/apply": {}
   "/apply/[slug]": { "slug": string; }
-  "/contact": {}
   "/contact-us": {}
   "/cv-maker": {}
   "/cv-maker/builder": {}
   "/diversity-and-inclusion": {}
   "/employers": {}
-  "/employers/diversity-inclusion": {}
   "/employers/faq": {}
   "/employers/how-we-work": {}
   "/employers/industries": {}
   "/employers/industries/[slug]": { "slug": string; }
-  "/employers/recruitment-outsourcing": {}
   "/employers/request-staff": {}
   "/employers/resources": {}
   "/employers/resources/[slug]": { "slug": string; }
@@ -74,9 +70,6 @@ interface ParamMap {
   "/employers/solutions/[slug]": { "slug": string; }
   "/employers/who-we-are": {}
   "/faq": {}
-  "/find-a-job": {}
-  "/industries": {}
-  "/industries/[slug]": { "slug": string; }
   "/insights/[slug]": { "slug": string; }
   "/jobs": {}
   "/jobs-for-refugees": {}
