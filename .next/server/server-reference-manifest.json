@@ -1,0 +1,4820 @@
+{
+  "node": {
+    "40689b030c4fc67ac45657a414ce5145d7f52613c6": {
+      "workers": {
+        "app/[legal]/page": {
+          "moduleId": 73719,
+          "async": false,
+          "codeHash": null
+        },
+        "app/_not-found/page": {
+          "moduleId": 37443,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/login/page": {
+          "moduleId": 89044,
+          "async": false,
+          "codeHash": null
+        },
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        },
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/apply/page": {
+          "moduleId": 35716,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/page": {
+          "moduleId": 22992,
+          "async": false,
+          "codeHash": null
+        },
+        "app/diversity-and-inclusion/page": {
+          "moduleId": 53023,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/faq/page": {
+          "moduleId": 66716,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/how-we-work/page": {
+          "moduleId": 23202,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/industries/[slug]/page": {
+          "moduleId": 69362,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/industries/page": {
+          "moduleId": 63792,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/page": {
+          "moduleId": 44776,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/resources/[slug]/page": {
+          "moduleId": 83840,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/resources/page": {
+          "moduleId": 70035,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/solutions/[slug]/page": {
+          "moduleId": 70171,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/solutions/page": {
+          "moduleId": 33957,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/who-we-are/page": {
+          "moduleId": 18574,
+          "async": false,
+          "codeHash": null
+        },
+        "app/faq/page": {
+          "moduleId": 59586,
+          "async": false,
+          "codeHash": null
+        },
+        "app/insights/[slug]/page": {
+          "moduleId": 88199,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs-for-refugees/page": {
+          "moduleId": 43262,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/page": {
+          "moduleId": 98475,
+          "async": false,
+          "codeHash": null
+        },
+        "app/page": {
+          "moduleId": 32989,
+          "async": false,
+          "codeHash": null
+        },
+        "app/visa-application/page": {
+          "moduleId": 46377,
+          "async": false,
+          "codeHash": null
+        },
+        "app/working-with-bridge/page": {
+          "moduleId": 20770,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "setLocale"
+    },
+    "60605c829b9872720a7cdbf0ef8204dce2acfcc42f": {
+      "workers": {
+        "app/[legal]/page": {
+          "moduleId": 73719,
+          "async": false,
+          "codeHash": null
+        },
+        "app/_not-found/page": {
+          "moduleId": 37443,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/login/page": {
+          "moduleId": 89044,
+          "async": false,
+          "codeHash": null
+        },
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        },
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/apply/page": {
+          "moduleId": 35716,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/page": {
+          "moduleId": 22992,
+          "async": false,
+          "codeHash": null
+        },
+        "app/diversity-and-inclusion/page": {
+          "moduleId": 53023,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/faq/page": {
+          "moduleId": 66716,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/how-we-work/page": {
+          "moduleId": 23202,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/industries/[slug]/page": {
+          "moduleId": 69362,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/industries/page": {
+          "moduleId": 63792,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/page": {
+          "moduleId": 44776,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/resources/[slug]/page": {
+          "moduleId": 83840,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/resources/page": {
+          "moduleId": 70035,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/solutions/[slug]/page": {
+          "moduleId": 70171,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/solutions/page": {
+          "moduleId": 33957,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/who-we-are/page": {
+          "moduleId": 18574,
+          "async": false,
+          "codeHash": null
+        },
+        "app/faq/page": {
+          "moduleId": 59586,
+          "async": false,
+          "codeHash": null
+        },
+        "app/insights/[slug]/page": {
+          "moduleId": 88199,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs-for-refugees/page": {
+          "moduleId": 43262,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/page": {
+          "moduleId": 98475,
+          "async": false,
+          "codeHash": null
+        },
+        "app/page": {
+          "moduleId": 32989,
+          "async": false,
+          "codeHash": null
+        },
+        "app/visa-application/page": {
+          "moduleId": 46377,
+          "async": false,
+          "codeHash": null
+        },
+        "app/working-with-bridge/page": {
+          "moduleId": 20770,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "subscribeNewsletter"
+    },
+    "0005c6b6456e4b27c652ad50ca5d5ac9f239458633": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "importDefaultSolutionsAction"
+    },
+    "00358c658cbb503311503fa07f6987d09048ab96d1": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "sendTestEmailAction"
+    },
+    "00376c9c3c0c167f59cb49e8403b14209dacfe3037": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "importSampleJobsAction"
+    },
+    "00ed12e0dc21924c1b73b97387f7daf91baf890795": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "logout"
+    },
+    "4027419c66b7905f8e5cadf9c85587d3d4c1cdabe8": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "deleteImageAction"
+    },
+    "404d630f9ec28a867cfc72afc11a53a2032d0a2070": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "resetHeroAction"
+    },
+    "40690db6334ccd49f91ee4cbb7bff72d1bc116f152": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "deleteSolutionAction"
+    },
+    "408744bd764528fbe7623a943075278a6a099f87dd": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "resetContentAction"
+    },
+    "40d3f3319273799d28f6d186fe813b45a12eae662f": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "importDefaultArticlesAction"
+    },
+    "40f34cd836dddcb2100d57096bfd8e2729872ba89b": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "toggleJobPublished"
+    },
+    "40ff66e01330b44551f37e0fd419a70fd81d12e6fd": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "deleteJobAction"
+    },
+    "601b7aaf843bb62a46254ee77718b7835851a4c16c": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "saveArticleAction"
+    },
+    "6028aad4c2a46a808e9df43ed9fd86219b9b50ebe2": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "saveContentAction"
+    },
+    "6062bab4ff9faeb014896f8d8408d0db5f2a524d9e": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "deleteSubmission"
+    },
+    "6065636061ced0d2ecdf18f3a1d3087da4cc5636a5": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "saveHeroAction"
+    },
+    "60943dd1e649f11df5e4fee20712d3fed958350128": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "deleteArticleAction"
+    },
+    "609f1bb42b5e141d05cf8725dbd3c5bd5ccae01a03": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/login/page": {
+          "moduleId": 89044,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "login"
+    },
+    "60a8b0b1395d03cd6ce8e8f424e531b87ee07d5256": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "uploadImageAction"
+    },
+    "60bdadc7e888ee19588546c1f154004756880d206e": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "saveJobAction"
+    },
+    "60c347c345cb7cfa0f8b9b609873066306c7dab4d5": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "saveSolutionAction"
+    },
+    "70889fd7c27f0e2773a7c469838680aecda1aec977": {
+      "workers": {
+        "app/admin/(panel)/articles/[id]/page": {
+          "moduleId": 74467,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/new/page": {
+          "moduleId": 15555,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/articles/page": {
+          "moduleId": 30336,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/[key]/page": {
+          "moduleId": 76292,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/page": {
+          "moduleId": 12204,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/[id]/page": {
+          "moduleId": 87132,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/heroes/page": {
+          "moduleId": 24675,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/[id]/page": {
+          "moduleId": 30456,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/inbox/[type]/page": {
+          "moduleId": 55558,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/[slug]/page": {
+          "moduleId": 92780,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/new/page": {
+          "moduleId": 98302,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/jobs/page": {
+          "moduleId": 40535,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/legal/page": {
+          "moduleId": 57106,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/media/page": {
+          "moduleId": 71376,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/[id]/page": {
+          "moduleId": 67258,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/new/page": {
+          "moduleId": 26980,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/services/page": {
+          "moduleId": 95201,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/actions.ts",
+      "exportedName": "updateSubmissionStatus"
+    },
+    "009eb1e66e96881bc8400f9a6bf8dd2999ad2518b3": {
+      "workers": {
+        "app/admin/(panel)/page": {
+          "moduleId": 50125,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/seed-actions.ts",
+      "exportedName": "seedStarterContentAction"
+    },
+    "40912f25fb2b8cd840ac9c165930678917d47099bf": {
+      "workers": {
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/form-actions.ts",
+      "exportedName": "deleteCustomFormAction"
+    },
+    "6037f1f8dc1c7bedc1052969b81f6ff678cc99d297": {
+      "workers": {
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/form-actions.ts",
+      "exportedName": "saveFormSettingsAction"
+    },
+    "60b07973db638f61e35f517a951abff0de66b45b2a": {
+      "workers": {
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/new/page": {
+          "moduleId": 46138,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/form-actions.ts",
+      "exportedName": "saveCustomFormAction"
+    },
+    "60da61531831c8dd7ac1648b5c021a4fae56afc09d": {
+      "workers": {
+        "app/admin/(panel)/forms/[id]/page": {
+          "moduleId": 88863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/forms/pricing/page": {
+          "moduleId": 54536,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/form-actions.ts",
+      "exportedName": "savePricingAction"
+    },
+    "00867a130b8e76a27dcbc18de135bb5f4649b3f827": {
+      "workers": {
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/industry-actions.ts",
+      "exportedName": "importDefaultIndustriesAction"
+    },
+    "40aab917ce9d80a7cb058ccc4df3650896870d66cd": {
+      "workers": {
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/industry-actions.ts",
+      "exportedName": "deleteIndustryAction"
+    },
+    "60eafcdd895cf1d2238b9d5cf9d519809f463a7ad9": {
+      "workers": {
+        "app/admin/(panel)/industries/[id]/page": {
+          "moduleId": 80250,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/new/page": {
+          "moduleId": 54863,
+          "async": false,
+          "codeHash": null
+        },
+        "app/admin/(panel)/industries/page": {
+          "moduleId": 58296,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/industry-actions.ts",
+      "exportedName": "saveIndustryAction"
+    },
+    "601ffb41d792aca279e3fa8f39405172cf1f45cb6e": {
+      "workers": {
+        "app/admin/(panel)/jobs/import/page": {
+          "moduleId": 23965,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/import-actions.ts",
+      "exportedName": "importJobsAction"
+    },
+    "401bc9173b655c7c20adde3532cee0128ce77c69a3": {
+      "workers": {
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/legal-actions.ts",
+      "exportedName": "resetLegalAction"
+    },
+    "60c0344c7cd13f32c81023c7cf03c92bebe5d10346": {
+      "workers": {
+        "app/admin/(panel)/legal/[slug]/page": {
+          "moduleId": 3767,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/legal-actions.ts",
+      "exportedName": "saveLegalAction"
+    },
+    "6064e1b99621dbbf116d9737fd7a6444b272594c52": {
+      "workers": {
+        "app/admin/(panel)/locations/page": {
+          "moduleId": 63046,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/location-actions.ts",
+      "exportedName": "saveLocationsAction"
+    },
+    "60e0f663905a9e8c6815d2d0e1a8c13e3198d4d86d": {
+      "workers": {
+        "app/admin/(panel)/navigation/page": {
+          "moduleId": 83338,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/nav-actions.ts",
+      "exportedName": "saveNavAction"
+    },
+    "00137d9cb14c0eda37dbc10bbd4237016114a807ef": {
+      "workers": {
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/privacy-actions.ts",
+      "exportedName": "runRetentionAction"
+    },
+    "40529a751522a9dbdb8ac0dcb19014703ab9d16bed": {
+      "workers": {
+        "app/admin/(panel)/privacy/page": {
+          "moduleId": 87434,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/privacy-actions.ts",
+      "exportedName": "eraseEmailAction"
+    },
+    "6037f5960556c1543bfc7a143e1c803167d1f5ab33": {
+      "workers": {
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/settings-actions.ts",
+      "exportedName": "saveSettingsAction"
+    },
+    "4022553b0ac3e943e3e5ce7e904fcf1ee023417b50": {
+      "workers": {
+        "app/admin/(panel)/settings/page": {
+          "moduleId": 94436,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/settings-actions.ts",
+      "exportedName": "testSettingsAction"
+    },
+    "403084ba8686b591f99f2e796005cd9040d86bc01f": {
+      "workers": {
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/translation-actions.ts",
+      "exportedName": "translatePendingAction"
+    },
+    "40819b24776921dacf8f0a129380ab5050c99b0839": {
+      "workers": {
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/translation-actions.ts",
+      "exportedName": "approveAllMachineAction"
+    },
+    "40f9fabbb97d2f36f9e007e80352667ff3a2e7a476": {
+      "workers": {
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/translation-actions.ts",
+      "exportedName": "scanSiteAction"
+    },
+    "70d7a739da0cb189130fb45d828415e68db7860753": {
+      "workers": {
+        "app/admin/(panel)/translations/page": {
+          "moduleId": 49243,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/translation-actions.ts",
+      "exportedName": "saveTranslationAction"
+    },
+    "6059f3485438f104ae7c9aca5a13e87047b70668b9": {
+      "workers": {
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/user-actions.ts",
+      "exportedName": "createAdminAction"
+    },
+    "6073543c8d9fd9a995421ddb6fa4f2b440d5865a53": {
+      "workers": {
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/user-actions.ts",
+      "exportedName": "renameAdminAction"
+    },
+    "60ac2a026c44d7357f79ef38223c2bf93cbab1c66f": {
+      "workers": {
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/user-actions.ts",
+      "exportedName": "setAdminActiveAction"
+    },
+    "60b3c5632f5fd3760c4167842c30d27b6d0133c574": {
+      "workers": {
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/user-actions.ts",
+      "exportedName": "changeOwnPasswordAction"
+    },
+    "60bca9b47f525c25a3509b7bc47b6674f663388f6c": {
+      "workers": {
+        "app/admin/(panel)/users/page": {
+          "moduleId": 60118,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/admin/user-actions.ts",
+      "exportedName": "resetAdminPasswordAction"
+    },
+    "605b0f452e54238f6730d2b789363f0f8903b2db49": {
+      "workers": {
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        },
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitTicketRequest"
+    },
+    "403976f8c2f2a10ab4f5615ed18ecd4988451f2e64": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "redeemCvUnlockCode"
+    },
+    "6037322dee8c57ae03b06e48bd6b2fba74ca130978": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitCv"
+    },
+    "60498b0a52f433503cc13ce42d924395aaa16c376d": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitCustomForm"
+    },
+    "6054c4137a854b60f541b66900ce628b98fdbeee8e": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitContact"
+    },
+    "606c48a70243fe944fc126cdd87b0721b94bd14724": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitApplication"
+    },
+    "60c3af5aeb11e964752e9c0512a6b111580a4d1a52": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        },
+        "app/visa-application/page": {
+          "moduleId": 46377,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitVisaApplication"
+    },
+    "60d07504f8ca099a6cac3ea37b82a86366c8b06dc5": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "submitStaffRequest"
+    },
+    "700ff10070763e3ab0740784a5db204ee5d752ddfe": {
+      "workers": {
+        "app/apply/[slug]/page": {
+          "moduleId": 28766,
+          "async": false,
+          "codeHash": null
+        },
+        "app/contact-us/page": {
+          "moduleId": 12797,
+          "async": false,
+          "codeHash": null
+        },
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        },
+        "app/employers/request-staff/page": {
+          "moduleId": 86033,
+          "async": false,
+          "codeHash": null
+        },
+        "app/jobs/[slug]/page": {
+          "moduleId": 38777,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/actions.ts",
+      "exportedName": "requestCvDownload"
+    },
+    "60234998b37c1bf7cf6564e4ab0920a7458496097c": {
+      "workers": {
+        "app/cv-maker/builder/page": {
+          "moduleId": 24614,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "filename": "src/app/cv-ai-actions.ts",
+      "exportedName": "improveCvText"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "zW3q+346LlDppJDf8k0TzNraGcTBtlKCQV0bTmmHNQQ="
+}

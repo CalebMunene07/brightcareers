@@ -1,0 +1,27 @@
+{
+  "node": {
+    "40689b030c4fc67ac45657a414ce5145d7f52613c6": {
+      "workers": {
+        "app/[legal]/page": {
+          "moduleId": 73719,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions.ts"
+    },
+    "60605c829b9872720a7cdbf0ef8204dce2acfcc42f": {
+      "workers": {
+        "app/[legal]/page": {
+          "moduleId": 73719,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "subscribeNewsletter",
+      "filename": "src/app/actions.ts"
+    }
+  },
+  "edge": {}
+}

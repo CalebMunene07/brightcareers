@@ -1,0 +1,258 @@
+{
+  "node": {
+    "40689b030c4fc67ac45657a414ce5145d7f52613c6": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions.ts"
+    },
+    "60605c829b9872720a7cdbf0ef8204dce2acfcc42f": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "subscribeNewsletter",
+      "filename": "src/app/actions.ts"
+    },
+    "0005c6b6456e4b27c652ad50ca5d5ac9f239458633": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "importDefaultSolutionsAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "00358c658cbb503311503fa07f6987d09048ab96d1": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "sendTestEmailAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "00376c9c3c0c167f59cb49e8403b14209dacfe3037": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "importSampleJobsAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "00ed12e0dc21924c1b73b97387f7daf91baf890795": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "logout",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "4027419c66b7905f8e5cadf9c85587d3d4c1cdabe8": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteImageAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "404d630f9ec28a867cfc72afc11a53a2032d0a2070": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "resetHeroAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "40690db6334ccd49f91ee4cbb7bff72d1bc116f152": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteSolutionAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "408744bd764528fbe7623a943075278a6a099f87dd": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "resetContentAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "40d3f3319273799d28f6d186fe813b45a12eae662f": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "importDefaultArticlesAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "40f34cd836dddcb2100d57096bfd8e2729872ba89b": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "toggleJobPublished",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "40ff66e01330b44551f37e0fd419a70fd81d12e6fd": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteJobAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "601b7aaf843bb62a46254ee77718b7835851a4c16c": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "saveArticleAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "6028aad4c2a46a808e9df43ed9fd86219b9b50ebe2": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "saveContentAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "6062bab4ff9faeb014896f8d8408d0db5f2a524d9e": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteSubmission",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "6065636061ced0d2ecdf18f3a1d3087da4cc5636a5": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "saveHeroAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "60943dd1e649f11df5e4fee20712d3fed958350128": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "deleteArticleAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "609f1bb42b5e141d05cf8725dbd3c5bd5ccae01a03": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "login",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "60a8b0b1395d03cd6ce8e8f424e531b87ee07d5256": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "uploadImageAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "60bdadc7e888ee19588546c1f154004756880d206e": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "saveJobAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "60c347c345cb7cfa0f8b9b609873066306c7dab4d5": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "saveSolutionAction",
+      "filename": "src/app/admin/actions.ts"
+    },
+    "70889fd7c27f0e2773a7c469838680aecda1aec977": {
+      "workers": {
+        "app/admin/(panel)/content/page": {
+          "moduleId": 35970,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "updateSubmissionStatus",
+      "filename": "src/app/admin/actions.ts"
+    }
+  },
+  "edge": {}
+}

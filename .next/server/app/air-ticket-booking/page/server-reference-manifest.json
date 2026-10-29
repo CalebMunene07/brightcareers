@@ -1,0 +1,38 @@
+{
+  "node": {
+    "40689b030c4fc67ac45657a414ce5145d7f52613c6": {
+      "workers": {
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions.ts"
+    },
+    "60605c829b9872720a7cdbf0ef8204dce2acfcc42f": {
+      "workers": {
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "subscribeNewsletter",
+      "filename": "src/app/actions.ts"
+    },
+    "605b0f452e54238f6730d2b789363f0f8903b2db49": {
+      "workers": {
+        "app/air-ticket-booking/page": {
+          "moduleId": 13384,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "submitTicketRequest",
+      "filename": "src/app/actions.ts"
+    }
+  },
+  "edge": {}
+}
