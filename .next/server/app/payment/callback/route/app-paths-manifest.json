@@ -1,0 +1,3 @@
+{
+  "/payment/callback/route": "app/payment/callback/route.js"
+}

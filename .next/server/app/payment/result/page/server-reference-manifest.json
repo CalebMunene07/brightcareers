@@ -1,0 +1,27 @@
+{
+  "node": {
+    "40813ef8d8b633fce5cd2d2d889da5f089e665695b": {
+      "workers": {
+        "app/payment/result/page": {
+          "moduleId": 35647,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "setLocale",
+      "filename": "src/app/actions.ts"
+    },
+    "60b3812fd87d872b50da0fc3c6783c0384dc2c9882": {
+      "workers": {
+        "app/payment/result/page": {
+          "moduleId": 35647,
+          "async": false,
+          "codeHash": null
+        }
+      },
+      "exportedName": "subscribeNewsletter",
+      "filename": "src/app/actions.ts"
+    }
+  },
+  "edge": {}
+}

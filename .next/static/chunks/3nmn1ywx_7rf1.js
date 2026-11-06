@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,46954,t=>{"use strict";var c=t.i(71645);t.s(["UnlockSaver",0,function({code:t}){return(0,c.useEffect)(()=>{try{localStorage.setItem("bridge-cv-unlock",t)}catch{}},[t]),null}])}]);
